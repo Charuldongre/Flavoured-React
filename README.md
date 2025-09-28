@@ -2,8 +2,9 @@
 
 Flavoured is a modern Food Ordering Web Application built with ReactJS, Tailwind CSS, and Redux Toolkit. The project demonstrates how to build a scalable, responsive, and efficient single-page application (SPA) that allows users to browse food items, manage their cart, and place orders seamlessly.
 
-**✨ Features
-🥗 Food Listings and Categories**
+**✨ Features**
+
+**🥗 Food Listings and Categories**
 Browse a curated list of food items organized into categories.
 Each item displays its name, image, description, and price.
 Responsive grid-based layout designed with Tailwind CSS.
